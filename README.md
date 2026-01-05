@@ -7,7 +7,7 @@ Solutions for Daily LeetCode Questions In Java.
 
 # Medium
 1390. Four Divisors
-
+1975. Maximum Matrix Sum
 
 # Hard
 1411. Number of Ways to Paint N × 3 Grid
