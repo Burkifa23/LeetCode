@@ -1,6 +1,6 @@
 # 1458. Max Dot Product of Two Subsequences
 
-_Medium_
+_Hard_
 
 Topics: `Array` `Dynamic Programming`
 
@@ -46,5 +46,5 @@ Their dot product is -1.
 Constraints:
 
 - 1 <= nums1.length, nums2.length <= 500
-- 1000 <= nums1[i], nums2[i] <= 1000
+- -1000 <= nums1[i], nums2[i] <= 1000
 
