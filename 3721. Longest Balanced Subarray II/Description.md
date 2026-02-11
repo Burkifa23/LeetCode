@@ -16,33 +16,37 @@ Return the length of the longest balanced subarray.
 
  
 
-Example 1:
+### Example 1:
 
-Input: nums = [2,5,4,3]
+**Input:** nums = [2,5,4,3]
 
-Output: 4
+**Output:** 4
 
-Explanation:
+**Explanation:**
 
 The longest balanced subarray is [2, 5, 4, 3].
+
 It has 2 distinct even numbers [2, 4] and 2 distinct odd numbers [5, 3]. Thus, the answer is 4.
-Example 2:
 
-Input: nums = [3,2,2,5,4]
+### Example 2:
 
-Output: 5
+**Input:** nums = [3,2,2,5,4]
 
-Explanation:
+**Output:** 5
+
+**Explanation:**
 
 The longest balanced subarray is [3, 2, 2, 5, 4].
+
 It has 2 distinct even numbers [2, 4] and 2 distinct odd numbers [3, 5]. Thus, the answer is 5.
-Example 3:
 
-Input: nums = [1,2,3,2]
+### Example 3:
 
-Output: 3
+**Input:** nums = [1,2,3,2]
 
-Explanation:
+**Output:** 3
+
+**Explanation:**
 
 The longest balanced subarray is [2, 3, 2].
 
